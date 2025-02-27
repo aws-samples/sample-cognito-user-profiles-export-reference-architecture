@@ -1,0 +1,22 @@
+{
+  "name": "utils",
+  "version": "1.0.9",
+  "description": "Custom Resource Helper functions",
+  "scripts": {
+    "clean": "rm -rf dist/ node_modules/ coverage/",
+    "test": "jest --config jestconfig.json --coverage --silent"
+  },
+  "author": {
+    "name": "Amazon Web Services",
+    "url": "https://aws.amazon.com/solutions"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "moment": "^2.27.0"
+  },
+  "devDependencies": {
+    "axios-mock-adapter": "^1.19.0",
+    "jest": "^29.7.0"
+  }
+}
