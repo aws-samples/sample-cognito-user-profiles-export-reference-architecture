@@ -9,7 +9,7 @@
 # author: aws-solutions-builder@
 AWSTemplateFormatVersion: 2010-09-09
 
-Description: (SO0126s) - StackSet template for Cognito User Profiles Export Reference Architecture. Version VERSION_PLACEHOLDER
+Description: (SO0126s) - StackSet template for Cognito User Profiles Export Reference Architecture. Version (uksb-qdjtd19hzw).
 
 Parameters:
   PrimaryRegion:
